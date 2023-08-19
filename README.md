@@ -1,8 +1,8 @@
 <h1 align="center">☕Hello World☕</h1>
 
 
-<h2 align="center">Te doy la bienvenida a mi github</h2>
-<h3 align="center">Un gran entusiaste del Backend</h3>
+<h2 align="center">Un gran entusiasta del Backend</h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkod188&label=Profile%20views&color=0e75b6&style=flat" alt="darkod188" /> </p>
 
