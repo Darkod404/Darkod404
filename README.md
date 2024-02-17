@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkod188&label=Profile%20views&color=0e75b6&style=flat" alt="darkod188" /> </p>
 
-- 🌱 I’m currently learning **Sprin and MongoDB.**
+- 🌱 I’m currently learning **Sprin and Docker.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Darkod188](https://github.com/Darkod188)
 
