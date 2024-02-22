@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Darkod188](https://github.com/Darkod188)
 
-- ⚡ ⚡I  am  collaborative and enthusiastic**
+- ⚡ ⚡I  am  collaborative and enthusiastic.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
