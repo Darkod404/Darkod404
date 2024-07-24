@@ -1,6 +1,6 @@
 <!-- Agregar banner -->
 <div style="text-align: center;">
-  <img src="./assets/computer.gif" alt="Banner Darkod404" width="900" height="400"/>
+  <img src="./assets/computer.gif" alt="Banner Darkod404" width="900" height="300"/>
 </div>
 
 <h1 align="center">Hello World! I'm Juan Gordillo<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
