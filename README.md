@@ -12,7 +12,7 @@
 <p align="left">
 
 - 🌱 I’m currently learning **Azure cloud computing**
-- ⚙️ Actualmente busco colaborar en nuevos proye
+- ⚙️ I am currently looking to collaborate on projects with the objectives of being productive and scalable to develop with my skills.
 - 📫 You can contact me at **juanpagor2003@gmail.com**
 </p>
 
