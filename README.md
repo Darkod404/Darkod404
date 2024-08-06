@@ -11,7 +11,7 @@
 
 <p align="left">
 
-- 🌱 I’m currently learning **Azure cloud computing**
+- 🌱 I’m currently learning **AWS cloud computing**
 - ⚙️ I am currently looking to collaborate on projects with the objectives of being productive and scalable to develop with my skills.
 - 📫 You can contact me at **juanpagor2003@gmail.com**
 </p>
@@ -21,7 +21,7 @@
  👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,cs,dotnet,nestjs,git,github,mongodb,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,cs,docker,kubernetes,nestjs,git,github,mongodb,mysql,postman" />
   </a>
 </p>
 
