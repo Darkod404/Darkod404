@@ -21,7 +21,7 @@
  👨🏻‍💻</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven, hibernate,cs,docker,nestjs,git,github,mongodb,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,cs,docker,nestjs,git,github,mongodb,mysql,postman" />
   </a>
 </p>
 
